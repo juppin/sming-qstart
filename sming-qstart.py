@@ -55,7 +55,7 @@ def make_argparser():
 
 class Quickstart(object):
 
-    SKEL_ZIP_URL = 'https://github.com/zgoda/sming-skel/archive/master.zip'
+    SKEL_ZIP_URL = 'https://github.com/juppin/sming-skel/archive/master.zip'
     SKEL_DIR_NAME = 'sming-skel-master'
 
     def __init__(self, config):
